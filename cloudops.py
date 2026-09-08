@@ -1,0 +1,1 @@
+print("this is EC2 Instance")
